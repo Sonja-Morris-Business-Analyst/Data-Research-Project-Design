@@ -1,7 +1,5 @@
 # Preparing for Influenza Season: Predicting Staffing Needs Across U.S. States
 
-![Logo](Logo.PNG)
-
 ## Project Overview
 
 This project was developed as part of the CareerFoundry Data Analytics Immersion program.
